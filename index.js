@@ -13,7 +13,7 @@ const getFileData = (filePath) => {
       .replaceAll('\\', '/')
       .replaceAll(process.env.rootFolder, ' '),
     size,
-    isDirectory: isDirectory(),
+    isDirectory: isDirectory.call(fs.statSync(filePath)),
     createdAt,
   }
 }
