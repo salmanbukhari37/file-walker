@@ -1,0 +1,72 @@
+{
+  ".package-lock.json": {
+    "fileName": ".package-lock.json",
+    "filePath": " file-walker/node_modules/.package-lock.json",
+    "size": 420,
+    "createdAt": "2023-03-28T08:45:35.590Z"
+  },
+  "dotenv": {
+    "CHANGELOG.md": {
+      "fileName": "CHANGELOG.md",
+      "filePath": " file-walker/node_modules/dotenv/CHANGELOG.md",
+      "size": 11366,
+      "createdAt": "2023-03-28T08:45:35.576Z"
+    },
+    "config.d.ts": {
+      "fileName": "config.d.ts",
+      "filePath": " file-walker/node_modules/dotenv/config.d.ts",
+      "size": 11,
+      "createdAt": "2023-03-28T08:45:35.579Z"
+    },
+    "config.js": {
+      "fileName": "config.js",
+      "filePath": " file-walker/node_modules/dotenv/config.js",
+      "size": 176,
+      "createdAt": "2023-03-28T08:45:35.569Z"
+    },
+    "LICENSE": {
+      "fileName": "LICENSE",
+      "filePath": " file-walker/node_modules/dotenv/LICENSE",
+      "size": 1294,
+      "createdAt": "2023-03-28T08:45:35.566Z"
+    },
+    "package.json": {
+      "fileName": "package.json",
+      "filePath": " file-walker/node_modules/dotenv/package.json",
+      "size": 1525,
+      "createdAt": "2023-03-28T08:45:35.574Z"
+    },
+    "README.md": {
+      "fileName": "README.md",
+      "filePath": " file-walker/node_modules/dotenv/README.md",
+      "size": 16582,
+      "createdAt": "2023-03-28T08:45:35.578Z"
+    },
+    "lib": {
+      "cli-options.js": {
+        "fileName": "cli-options.js",
+        "filePath": " file-walker/node_modules/dotenv/lib/cli-options.js",
+        "size": 278,
+        "createdAt": "2023-03-28T08:45:35.569Z"
+      },
+      "env-options.js": {
+        "fileName": "env-options.js",
+        "filePath": " file-walker/node_modules/dotenv/lib/env-options.js",
+        "size": 518,
+        "createdAt": "2023-03-28T08:45:35.571Z"
+      },
+      "main.d.ts": {
+        "fileName": "main.d.ts",
+        "filePath": " file-walker/node_modules/dotenv/lib/main.d.ts",
+        "size": 2071,
+        "createdAt": "2023-03-28T08:45:35.580Z"
+      },
+      "main.js": {
+        "fileName": "main.js",
+        "filePath": " file-walker/node_modules/dotenv/lib/main.js",
+        "size": 2784,
+        "createdAt": "2023-03-28T08:45:35.572Z"
+      }
+    }
+  }
+}
