@@ -1,0 +1,26 @@
+{
+  "name": "file-walker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisajidcs/file-walker.git"
+  },
+  "keywords": [
+    "fileWalker"
+  ],
+  "author": "alisajidcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisajidcs/file-walker/issues"
+  },
+  "homepage": "https://github.com/alisajidcs/file-walker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
